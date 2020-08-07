@@ -1,1 +1,1 @@
-# AzureARC
+# Azure Arc
